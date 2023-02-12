@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5dce85a.chunk.css",
+    "main.js": "/static/js/main.9b01d34b.chunk.js",
+    "main.js.map": "/static/js/main.9b01d34b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2dfd67d6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2dfd67d6.js.map",
+    "static/js/2.0d5c362d.chunk.js": "/static/js/2.0d5c362d.chunk.js",
+    "static/js/2.0d5c362d.chunk.js.map": "/static/js/2.0d5c362d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c5b26ff12309e806ccea77eb9bf7e88a.js": "/precache-manifest.c5b26ff12309e806ccea77eb9bf7e88a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a5dce85a.chunk.css.map": "/static/css/main.a5dce85a.chunk.css.map",
+    "static/js/2.0d5c362d.chunk.js.LICENSE.txt": "/static/js/2.0d5c362d.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/static/media/1.3fbb6259.png",
+    "static/media/4.png": "/static/media/4.4a472b6f.png",
+    "static/media/5.jpg": "/static/media/5.ae67f925.jpg",
+    "static/media/drink.JPG": "/static/media/drink.7d545c2a.JPG",
+    "static/media/pandinha.gif": "/static/media/pandinha.d348e440.gif",
+    "static/media/pandinha_coracao.gif": "/static/media/pandinha_coracao.f1be026f.gif",
+    "static/media/pandinha_fofa_cara_de_brava.gif": "/static/media/pandinha_fofa_cara_de_brava.46feb314.gif",
+    "static/media/pandinha_martelo.png": "/static/media/pandinha_martelo.8b0c4eec.png",
+    "static/media/ursinha_chorando.gif": "/static/media/ursinha_chorando.865f1c97.gif",
+    "static/media/ursinha_mordidas.gif": "/static/media/ursinha_mordidas.c4ff310e.gif",
+    "static/media/ursinho_S2_pandinha.gif": "/static/media/ursinho_S2_pandinha.641a584c.gif",
+    "static/media/ursinho_catucando_pandinha.gif": "/static/media/ursinho_catucando_pandinha.7746f731.gif",
+    "static/media/ursinho_chorando.gif": "/static/media/ursinho_chorando.ee3bbcef.gif",
+    "static/media/ursinho_estudando.gif": "/static/media/ursinho_estudando.bde071c4.gif",
+    "static/media/ursinho_pegando_no_sono.gif": "/static/media/ursinho_pegando_no_sono.38728126.gif",
+    "static/media/ursinhos_apaixonados.gif": "/static/media/ursinhos_apaixonados.04b613c4.gif",
+    "static/media/ursinhos_caminhada.jpg": "/static/media/ursinhos_caminhada.b887f38a.jpg",
+    "static/media/ursinhos_dormindo.gif": "/static/media/ursinhos_dormindo.73252a13.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dfd67d6.js",
+    "static/js/2.0d5c362d.chunk.js",
+    "static/css/main.a5dce85a.chunk.css",
+    "static/js/main.9b01d34b.chunk.js"
+  ]
+}
