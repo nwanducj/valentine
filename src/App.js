@@ -34,7 +34,7 @@ const App = () => {
         textColor={colors.white}
         Spaghetti and Meatball
         title="This is Spaghetti and Meatball"
-        text="They've known each other for a long time, and were friends, but today they're beyond that... they're dating."
+        text="Once upon a time, in a quaint Italian kitchen, lived Spaghetti and Meatball. They had been friends for as long as they could remember, but their relationship had recently evolved into something more. They were now dating and were the talk of the kitchen."
         btnText="Start story"
         sequency="1"
       />
@@ -43,7 +43,7 @@ const App = () => {
         bgColor={colors.blue}
         textColor={colors.white}
         title="Spaghetti"
-        text="Spaghetti is very studious and funny, he always makes Meatball laugh, but he is very slow and never understands what a Meatball wants to say."
+        text="Spaghetti was always the jester, making Meatball laugh with his antics, but sometimes he was a bit insensitive and didn't always understand what Meatball was trying to say."
         btnText="Continue"
         sequency="2"
       />
@@ -52,7 +52,7 @@ const App = () => {
         bgColor={colors.pink}
         textColor={colors.white}
         title="Meatball"
-        text="Meatball is very soft, she always worries about how close she is, but she doesn't have any patience. And there's a way different from showing or feeling..."
+        text="Meatball, on the other hand, was always concerned about how close she was to Spaghetti, but lacked patience and sometimes got irritated with Spaghetti's lack of sensitivity."
         btnText="Continue"
         sequency="3"
       />
@@ -61,7 +61,7 @@ const App = () => {
         bgColor={colors.red}
         textColor={colors.white}
         title="Spaghetti & Meatball"
-        text="As I said, these two are in love, they are not perfect... but they always help each other and we overcome problems together."
+        text="Despite their differences, the two were deeply in love and always helped each other through the ups and downs of their relationship."
         btnText="Continue"
         sequency="4"
       />
@@ -70,7 +70,7 @@ const App = () => {
         bgColor={colors.purple}
         textColor={colors.white}
         title="Meatball sad"
-        text="Sometimes Meatball is sad with some things, he is crying and sad... :( But the Spaghetti always tries to cheer her up and almost always manages to make her laugh and feel better"
+        text="There were times when Meatball was sad and needed a shoulder to cry on, and Spaghetti was always there to cheer her up"
         btnText="Continue"
         sequency="5"
       />
@@ -79,7 +79,7 @@ const App = () => {
         bgColor={colors.green}
         textColor={colors.white}
         title="Spaghetti sad"
-        text="Sometimes he is the Spaghetti who is sad with some problems, and here is Meatball with her love and cuteness and helps the Spaghetti when he is sad. :)"
+        text="And there were times when Spaghetti was feeling down, and Meatball was there to comfort him even when she does not know she is doing it."
         btnText="Continue"
         sequency="6"
       />
@@ -87,8 +87,8 @@ const App = () => {
         imageUrl={pandinha_martelo}
         bgColor={colors.blue}
         textColor={colors.white}
-        title="Spaghetti dull & insensitive"
-        text="Spaghetti is dull and sometimes doesn't understand what Meatball meant exactly, and understands totally different or be insensitive..."
+        title="Spaghetti insensitive"
+        text="Spaghetti is insensitive and sometimes doesn't understand what Meatball meant exactly or how she felt, and understands totally different."
         btnText="Continue"
         sequency="7"
       />
@@ -97,7 +97,7 @@ const App = () => {
         bgColor={colors.yellow}
         textColor={colors.white}
         title="Meatball and his patience"
-        text="Meatball is VERY LOVING, but the same lack of patience... and sometimes she gets irritated because Spaghetti is dull."
+        text="Meatball is VERY LOVING, but the same lack of patience... and sometimes she gets irritated because Spaghetti insensitivity."
         btnText="Continue"
         sequency="8"
       />
@@ -115,7 +115,7 @@ const App = () => {
         bgColor={colors.blue}
         textColor={colors.white}
         title="Spaghetti's Love"
-        text="Then Spaghetti, after hours of trying to explain, apologizes for being dull & insensitive and says how much he loves Meatball."
+        text="Then Spaghetti, after hours of trying to explain, apologizes for being insensitive and says how much he loves Meatball."
         btnText="Awwwwn <3"
         sequency="10"
       />
@@ -124,7 +124,7 @@ const App = () => {
         bgColor={colors.yellow}
         textColor={colors.white}
         title="Meatball's love"
-        text="The Meatball behind all her lack of patience also loves Spaghetti, and goes on to say that she loves him too."
+        text="Then Meatball behind all her lack of patience also loves Spaghetti, and goes on to say that she loves him too."
         btnText="Awwwwn <3"
         sequency="11"
       />
@@ -141,8 +141,8 @@ const App = () => {
         imageUrl={ursinhos_caminhada}
         bgColor={colors.pink}
         textColor={colors.white}
-        title="they walk together"
-        text="The two love to walk together, they laugh a lot, especially at Meatball's 'imagination'. ~ laughs"
+        title="they go out together"
+        text="The couple loved to go for walks together, and would spend hours laughing and enjoying each other's company."
         btnText="Walking..."
         sequency="13"
       />
@@ -160,7 +160,7 @@ const App = () => {
         bgColor={colors.purple}
         textColor={colors.white}
         title="drink together"
-        text="Spaghetti and Meatball love to drink together, and enjoy the good times with some songs"
+        text="Spaghetti and Meatball love to drink together, they also loved to drink together and sing along to their favorite songs. Burna Boy & Doja Cat(or something)"
         btnText="drinks after..."
         sequency="15"
       />
@@ -187,8 +187,7 @@ const App = () => {
         bgColor={colors.blue}
         textColor={colors.white}
         title="And finally we sleep"
-        text="
-        I saw them have difficult moments sometimes, and cry, and were irritated... but when everyone is out of their place, they love each other a lot and laugh"
+        text="I saw them have difficult moments sometimes, and cry, and were irritated... but when everyone is out of their place, they love each other a lot and laugh"
         btnText="They sleep"
         sequency="18"
       />
