@@ -35,7 +35,7 @@ const App = () => {
         Spaghetti and Meatball
         title="This is Spaghetti and Meatball"
         text="Once upon a time, in a quaint Italian kitchen, lived Spaghetti and Meatball. They had been friends for as long as they could remember, but their relationship had recently evolved into something more. They were now dating and were the talk of the kitchen."
-        btnText="Start story"
+        btnText="Start the love story❤️"
         sequency="1"
       />
       <Screen
@@ -96,7 +96,7 @@ const App = () => {
         imageUrl={pandinha_brava}
         bgColor={colors.yellow}
         textColor={colors.white}
-        title="Meatball and his patience"
+        title="Meatball and her patience"
         text="Meatball is VERY LOVING, but the same lack of patience... and sometimes she gets irritated because Spaghetti insensitivity."
         btnText="Continue"
         sequency="8"
@@ -142,8 +142,8 @@ const App = () => {
         bgColor={colors.pink}
         textColor={colors.white}
         title="they go out together"
-        text="The couple loved to go for walks together, and would spend hours laughing and enjoying each other's company."
-        btnText="Walking..."
+        text="The couple loved to go out together, and would spend hours laughing and enjoying each other's company."
+        btnText="Outing..."
         sequency="13"
       />
       <Screen
@@ -160,7 +160,7 @@ const App = () => {
         bgColor={colors.purple}
         textColor={colors.white}
         title="drink together"
-        text="Spaghetti and Meatball love to drink together, they also loved to drink together and sing along to their favorite songs. Burna Boy & Doja Cat(or something)"
+        text="Spaghetti and Meatball love to drink together, they also loved to sing along to their favorite songs. Burna Boy & Doja Cat(or something)"
         btnText="drinks after..."
         sequency="15"
       />
@@ -197,7 +197,7 @@ const App = () => {
         textColor={colors.white}
         title="Happy Valentine's Day"
         text="Finally I thought of something that no one has ever given you and I have never given anyone... I hope you like it. I love you Elvina Baby like I never loved anyone... ~ Odogwu"
-        btnText="End"
+        btnText="End❤️"
         sequency="19"
       />
     </div>
